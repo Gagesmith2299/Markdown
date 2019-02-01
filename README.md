@@ -10,7 +10,7 @@ This is the repository for the Markdown challenge
 <u1>
 <li> **BOLD TEXT** <i>
 <li> <i> Italic Text <i>
-<li> <strike>Strike through
+<li> <strike>Strike through </strike>
 </u1>
 
 <h6> This is a numbered list of some of my favorite foods<h6>
