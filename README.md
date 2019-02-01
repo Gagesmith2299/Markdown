@@ -8,7 +8,7 @@ This is the repository for the Markdown challenge
 <h6> This is a bulleted list showing some of the different text options in Markdown<h6>
 
 <u1>
-<li> **BOLD TEXT** <i>
+<li> __BOLD TEXT__ <i>
 <li> <i> Italic Text <i>
 <li> <strike>Strike through </strike>
 </u1>
