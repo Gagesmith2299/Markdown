@@ -3,7 +3,7 @@ This is the repository for the Markdown challenge
 
 <h2> This is the first of my Markdown pages <h2>
 
-[second page](second.md)
+[second page](Second.md)
 
 <h6> This is a bulleted list showing some of the different text options in Markdown<h6>
 
